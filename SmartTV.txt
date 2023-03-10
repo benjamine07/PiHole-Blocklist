@@ -1,6 +1,5 @@
 # Adblock list for Samsung Smart TVs
 
-# Samsung
 abtauthprd.samsungcloudsolution.com
 #acr0.samsungcloudsolution.com # https://www.reddit.com/r/oisd_blocklist/comments/m6j6fg/oisd_domain_blocklist/h3hulvq
 ad.samsungadhub.com
