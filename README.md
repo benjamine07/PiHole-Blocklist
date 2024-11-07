@@ -1,2 +1,2 @@
 # PiHoleBlocklist
-This is a Pi-hole adblock list for Samsung Smart TVs
+This is a Pi-hole adblock list for Smart TVs
