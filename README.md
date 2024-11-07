@@ -1,2 +1,2 @@
 # PiHoleBlocklist
-This is a Pi-hole adblock list for Smart TVs
+Pi-hole adblock lists for Smart TVs
